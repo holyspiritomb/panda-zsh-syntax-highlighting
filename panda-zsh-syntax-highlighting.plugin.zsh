@@ -1,0 +1,1 @@
+panda-zsh-syntax-highlighting.zsh
